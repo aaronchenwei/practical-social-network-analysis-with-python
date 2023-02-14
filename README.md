@@ -1,1 +1,1 @@
-# practical-social-network-analysis-with-python
+# Practical Social Network Analysis with Python
