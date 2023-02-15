@@ -1,0 +1,1 @@
+In this exercise, the task is to evaluate a decentralized search algorithm on a network where the edges are created according to a hierarchical tree structure. The leaves of the tree will form the nodes of the network and the edge probabilities between two nodes depends on their proximity in the underlying tree structure.

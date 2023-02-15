@@ -1,0 +1,1 @@
+Generate the following two graphs with random seed of 10

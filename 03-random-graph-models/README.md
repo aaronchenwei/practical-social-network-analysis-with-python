@@ -1,0 +1,1 @@
+Download the *Astro Physics* collaboration network from the SNAP dataset repository available at http://snap.stanford.edu/data/ca-AstroPh.html. This coauthorship network contains 18772 nodes and 198110 edges.
