@@ -1,0 +1,1 @@
+Download the *Friendster* undirected social network data available at https://snap.stanford.edu/data/com-Friendster.html.

@@ -1,0 +1,1 @@
+Download the *Epinions* directed network from the SNAP dataset repository available at http://snap.stanford.edu/data/soc-Epinions1.html.

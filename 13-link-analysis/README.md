@@ -1,0 +1,1 @@
+Download the Wikipedia hyperlinks network available at https://snap.stanford.edu/data/wiki-topcats.txt.gz.

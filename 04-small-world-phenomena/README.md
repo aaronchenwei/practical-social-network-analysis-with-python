@@ -1,0 +1,1 @@
+Download the *General Relativity and Quantum Cosmology* collaboration network available at https://snap.stanford.edu/data/ca-GrQc.txt.gz.

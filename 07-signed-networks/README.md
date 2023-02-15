@@ -1,0 +1,1 @@
+Download the signed *Epinions* social network dataset available at https://snap.stanford.edu/data/soc-sign-epinions.txt.gz.
